@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm FahmiApz</h1>
-<h3>Saya hanya orang gabut yang hobi ngoding
-dan walaupun banyak error:v</h3>
+<p>Saya hanya amatir yang masih harus banyak belajar.</p>
 
 - 👨‍💻 All of my projects are available at [https://ainxbot-id.herokuapp.com](https://ainxbot-id.herokuapp.com)
 
