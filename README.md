@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm FahmiApz</h1>
-<p>Saya hanya amatir yang masih harus banyak belajar.</p>
+<h5>Saya hanya amatir yang masih harus banyak belajar.</h5>
 
 - 👨‍💻 All of my projects are available at [https://ainxbot-id.herokuapp.com](https://ainxbot-id.herokuapp.com)
 
